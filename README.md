@@ -1,2 +1,3 @@
 # TurfDisplayCode
-Arduino code for our Turf Display at the Rowes Bay Sustainability Centre - 5 x DHT22 on a string transmitted data to thingspeak
+
+Sketch for 5 x DHT22 Temperature Sensors along a string for the Turf Display @ Rowes Bay Sustainability Centre.
